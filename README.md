@@ -1,2 +1,2 @@
 # gradient_starvation
-Code Gradient Starvation paper (Submission 1807)
+Code for Gradient Starvation paper (Submission 1807)
